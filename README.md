@@ -2,6 +2,7 @@
 Koç University course that is take from [CS188 Berkley](https://inst.eecs.berkeley.edu/~cs188/su21/).\
 A set of homeworks where Pacman agent is modified by following algorithms.\
 The code below *** YOUR CODE HERE *** is by me. 
+Thanks to [Barış Akgün](https://mysite.ku.edu.tr/baakgun/)
 
 ## Homework 1
 - DFS, BFS, A*, UCS algorithms
